@@ -4,7 +4,7 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 400;
-    src: local('CalibreRegular'), url('./calibre/CalibreRegular.otf') format('otf');
+    src: local('CalibreRegular'), url('./calibre/CalibreRegular.otf') format('opentype');
 }
 
 
@@ -12,7 +12,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 400;
-    src: local('CalibreRegularItalic'), url('./calibre/CalibreRegularItalic.otf') format('otf');
+    src: local('CalibreRegularItalic'), url('./calibre/CalibreRegularItalic.otf') format('opentype');
 }
 
 
@@ -20,7 +20,7 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 300;
-    src: local('CalibreLight'), url('./calibre/CalibreLight.otf') format('otf');
+    src: local('CalibreLight'), url('./calibre/CalibreLight.otf') format('opentype');
 }
 
 
@@ -28,7 +28,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 300;
-    src: local('CalibreLightItalic'), url('./calibre/CalibreLightItalic.otf') format('otf');
+    src: local('CalibreLightItalic'), url('./calibre/CalibreLightItalic.otf') format('opentype');
 }
 
 
@@ -36,7 +36,7 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 500;
-    src: local('CalibreMedium'), url('./calibre/CalibreMedium.otf') format('otf');
+    src: local('CalibreMedium'), url('./calibre/CalibreMedium.otf') format('opentype');
 }
 
 
@@ -44,7 +44,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 500;
-    src: local('CalibreMediumItalic'), url('./calibre/CalibreMediumItalic.otf') format('otf');
+    src: local('CalibreMediumItalic'), url('./calibre/CalibreMediumItalic.otf') format('opentype');
 }
 
 
@@ -52,7 +52,7 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 600;
-    src: local('CalibreSemibold'), url('./calibre/CalibreSemibold.otf') format('otf');
+    src: local('CalibreSemibold'), url('./calibre/CalibreSemibold.otf') format('opentype');
 }
 
 
@@ -60,7 +60,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 600;
-    src: local('CalibreSemiboldItalic'), url('./calibre/CalibreSemiboldItalic.otf') format('otf');
+    src: local('CalibreSemiboldItalic'), url('./calibre/CalibreSemiboldItalic.otf') format('opentype');
 }
 
 
@@ -68,7 +68,7 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 700;
-    src: local('CalibreBold'), url('./calibre/CalibreBold.otf') format('otf');
+    src: local('CalibreBold'), url('./calibre/CalibreBold.otf') format('opentype');
 }
 
 
@@ -76,7 +76,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 700;
-    src: local('CalibreBoldItalic'), url('./calibre/CalibreBoldItalic.otf') format('otf');
+    src: local('CalibreBoldItalic'), url('./calibre/CalibreBoldItalic.otf') format('opentype');
 }
 
 
@@ -84,7 +84,7 @@
     font-family: 'Calibre';
     font-style: italic;
     font-weight: 900;
-    src: local('CalibreBlackItalic'), url('./calibre/CalibreBlackItalic.otf') format('otf');
+    src: local('CalibreBlackItalic'), url('./calibre/CalibreBlackItalic.otf') format('opentype');
 }
 
 
@@ -92,5 +92,5 @@
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 900;
-    src: local('CalibreBlack'), url('./calibre/CalibreBlack.otf') format('otf');
+    src: local('CalibreBlack'), url('./calibre/CalibreBlack.otf') format('opentype');
 }
